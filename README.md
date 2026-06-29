@@ -36,15 +36,19 @@ Para isso, o projeto foi dividido em cinco etapas:
 
 # Links
 
-📄 **Relatório completo (Google Docs)**
+**Relatório completo (Google Docs)**
 
-**➡️ [relatório](https://docs.google.com/document/d/1qjVVkGRc4TD5vZ6iykZSXAKpP_gi4kSVkBott_vG0lU/edit?tab=t.0#heading=h.l54j4hyesunp)**
+**[relatório](https://docs.google.com/document/d/1qjVVkGRc4TD5vZ6iykZSXAKpP_gi4kSVkBott_vG0lU/edit?tab=t.0#heading=h.l54j4hyesunp)**
 
 ---
 
-📊 **Dashboard Interativo**
+**Dashboard Interativo**
 
-**➡️ [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTljZDM3Y2ItYTZkMC00ZTBlLTkzZDItZWU2MzRiMDBiMzg1IiwidCI6ImMzODRkN2Y5LTdhNDEtNDZiOS04ZTRjLWQzOTJlMGU4Zjc4OSJ9)**
+**[dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTljZDM3Y2ItYTZkMC00ZTBlLTkzZDItZWU2MzRiMDBiMzg1IiwidCI6ImMzODRkN2Y5LTdhNDEtNDZiOS04ZTRjLWQzOTJlMGU4Zjc4OSJ9)**
+
+**Notebook Online (Google Colab)**
+
+**[Notebook](https://colab.research.google.com/drive/179VHk6DftH5vhx0YW_a8wJ4VJ2XzBt9_#scrollTo=X5Gn-zJDVHCn)**
 
 ---
 
