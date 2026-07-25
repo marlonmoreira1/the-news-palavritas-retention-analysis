@@ -136,6 +136,18 @@ Cada proposta foi acompanhada de hipótese, ação sugerida e critérios objetiv
 
 ---
 
+## 6. Resultado de Negócio
+
+Partindo das hipóteses já levantadas nas propostas, o ganho potencial a ser
+validado via teste A/B é:
+
+- **Newsletter (Proposta 1):** a cada 100 usuários que passarem a abrir a
+  newsletter antes de jogar, cerca de **7 a mais** ficam ativos 30 dias
+  depois.
+- **Sequência de dias / streak (Proposta 2):** a cada 100 usuários que
+  atingirem uma sequência de 4 dias ou mais, cerca de **6 a mais** voltam a
+  jogar no dia seguinte.
+
 # Tecnologias Utilizadas
 
 - Python
