@@ -141,9 +141,10 @@ Cada proposta foi acompanhada de hipótese, ação sugerida e critérios objetiv
 Partindo das hipóteses já levantadas nas propostas, o ganho potencial a ser
 validado via teste A/B é:
 
-- **Newsletter (Proposta 1):** a cada 100 usuários que passarem a abrir a
-  newsletter antes de jogar, cerca de **7 a mais** ficam ativos 30 dias
-  depois.
+- **Newsletter (Propostas 1 e 3):** a cada 100 usuários que passarem a abrir
+  a newsletter antes de jogar, cerca de **7 a mais** ficam ativos 30 dias
+  depois — efeito reforçado pelo horário de envio (6h06), que já cai na
+  faixa (6h–8h) de maior retenção.
 - **Sequência de dias / streak (Proposta 2):** a cada 100 usuários que
   atingirem uma sequência de 4 dias ou mais, cerca de **6 a mais** voltam a
   jogar no dia seguinte.
