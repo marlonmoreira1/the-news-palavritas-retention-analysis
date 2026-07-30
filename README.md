@@ -44,7 +44,7 @@ Para isso, o projeto foi dividido em cinco etapas:
 
 **Dashboard Interativo**
 
-**[dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTljZDM3Y2ItYTZkMC00ZTBlLTkzZDItZWU2MzRiMDBiMzg1IiwidCI6ImMzODRkN2Y5LTdhNDEtNDZiOS04ZTRjLWQzOTJlMGU4Zjc4OSJ9)**
+**[dashboard](https://app.powerbi.com/groups/me/reports/35ab222b-ee29-4f16-ada3-21c57e984d72?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare)**
 
 **Notebook Online (Google Colab)**
 
