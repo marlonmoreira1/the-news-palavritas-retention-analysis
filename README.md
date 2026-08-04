@@ -118,8 +118,17 @@ O objetivo foi avaliar se as diferenças observadas possuíam evidências estat�
 Entre os principais achados do projeto destacam-se:
 
 - usuários que abriram a newsletter antes de jogar apresentaram maior retenção em 30 dias;
+
+<img width="409" height="416" alt="image" src="https://github.com/user-attachments/assets/ef2799f6-95fe-4f92-a89b-8768ae073be5" />
+
 - usuários com maiores sequências (streak) apresentaram maior probabilidade de retornar no dia seguinte;
+
+<img width="600" height="207" alt="image" src="https://github.com/user-attachments/assets/e1752dc7-994d-4068-870f-f60524592707" />
+
 - o período do dia em que o usuário costuma jogar apresentou associação com a retenção;
+
+<img width="708" height="403" alt="image" src="https://github.com/user-attachments/assets/7db97c85-ca4b-4ce7-8a79-c3f2d3451701" />
+
 - nenhuma variável isoladamente explicou o comportamento dos usuários, indicando que a retenção depende da combinação de múltiplos fatores.
 
 ---
