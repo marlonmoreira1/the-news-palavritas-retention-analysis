@@ -8,29 +8,11 @@ O objetivo do projeto foi identificar os principais fatores associados ao retorn
 
 # Objetivo do Projeto
 
-Responder à seguinte pergunta de negócio:
+O projeto teve como objetivo identificar os principais fatores associados ao retorno dos usuários no dia seguinte e à retenção após 30 dias no jogo Palavritas, respondendo à seguinte pergunta de negócio:
 
-> **"O que está determinando se um usuário volta a jogar — e o que podemos fazer para aumentar isso?"**
+"O que está determinando se um usuário volta a jogar e o que podemos fazer para aumentar isso?"
 
-Para isso, o projeto foi dividido em cinco etapas:
-
-- Business Understanding
-- Data Understanding
-- Data Preparation
-- Análise Exploratória
-- Testes Estatísticos
-- Recomendações de Produto
-
----
-
-# Arquivos do projeto
-
-| Arquivo | Descrição |
-|----------|-----------|
-| `Palavritas_Retention_Analysiss.ipynb` | Notebook contendo toda a análise, limpeza dos dados e desenvolvimento do case |
-| `Relatorio_Case_TheNews.docx` | Documento executivo contendo diagnóstico, achados e propostas |
-| `README.md` | Resumo do projeto |
-| `Dashboard_Palavritas.pbix` *(opcional)* | Dashboard desenvolvido no Power BI |
+Para isso, foram analisados diferentes aspectos do comportamento dos usuários, complementando a análise exploratória com testes estatísticos para validar as associações encontradas.
 
 ---
 
@@ -49,67 +31,6 @@ Para isso, o projeto foi dividido em cinco etapas:
 **Notebook Online (Google Colab)**
 
 **[Notebook](https://colab.research.google.com/drive/179VHk6DftH5vhx0YW_a8wJ4VJ2XzBt9_#scrollTo=X5Gn-zJDVHCn)**
-
----
-
-# Dataset
-
-Foram utilizados os três conjuntos de dados disponibilizados no desafio:
-
-- **palavritas_sessions**
-- **palavritas_attempts**
-- **user_profile**
-
-Os dados representam informações fictícias sobre o comportamento dos usuários do jogo Palavritas e seu perfil.
-
----
-
-# Principais etapas da análise
-
-## 1. Diagnóstico e preparação dos dados
-
-Antes das análises exploratórias foi realizada uma etapa completa de diagnóstico dos dados.
-
-Entre os principais problemas identificados estavam:
-
-- registros duplicados;
-- sessões com quantidade de tentativas inválidas;
-- tempos negativos;
-- valores ausentes;
-- inconsistências de padronização;
-- datas em formatos diferentes;
-- problemas de integridade entre tabelas.
-
-Todas as decisões de tratamento foram documentadas e fundamentadas utilizando evidências presentes nos próprios dados.
-
----
-
-## 2. Análise Exploratória
-
-Foram investigados diversos fatores relacionados à retenção dos usuários, incluindo:
-
-- horário de jogo;
-- abertura da newsletter;
-- sequência de dias (streak);
-- dispositivo utilizado;
-- palavra do dia;
-- tempo de conclusão da partida;
-- perfil demográfico;
-- características profissionais;
-- hábitos de consumo.
-
-Também foi desenvolvido um dashboard executivo para facilitar a visualização dos resultados.
-
----
-
-## 3. Testes Estatísticos
-
-Para complementar a análise exploratória foram aplicados:
-
-- Teste Qui-Quadrado de Independência;
-- Coeficiente de Cramer's V.
-
-O objetivo foi avaliar se as diferenças observadas possuíam evidências estatísticas de associação com os indicadores de retenção.
 
 ---
 
