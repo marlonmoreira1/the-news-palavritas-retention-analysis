@@ -44,7 +44,7 @@ Entre os principais achados do projeto destacam-se:
 
 2. usuários com maiores sequências (streak) apresentaram maior probabilidade de retornar no dia seguinte;
 
-    <img width="600" height="207" alt="image" src="https://github.com/user-attachments/assets/e1752dc7-994d-4068-870f-f60524592707" />
+    <img width="680" height="200" alt="image" src="https://github.com/user-attachments/assets/603bee13-704b-4808-ba04-18b472001fd5" />
 
 3. o período do dia em que o usuário costuma jogar apresentou associação com a retenção;
 
