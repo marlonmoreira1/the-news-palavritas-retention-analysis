@@ -22,6 +22,10 @@ Para isso, foram analisados diferentes aspectos do comportamento dos usuários, 
 
 **[relatório](https://docs.google.com/document/d/1qjVVkGRc4TD5vZ6iykZSXAKpP_gi4kSVkBott_vG0lU/edit?tab=t.0#heading=h.l54j4hyesunp)**
 
+**Artigo Medium**
+
+**[Artigo Medium](https://medium.com/@marlonm.almeida/o-que-faz-um-usu%C3%A1rio-voltar-uma-an%C3%A1lise-de-reten%C3%A7%C3%A3o-do-palavritas-2d23d5271d30?postPublishedType=repub)**
+
 ---
 
 **Dashboard Interativo**
