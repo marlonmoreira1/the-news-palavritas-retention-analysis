@@ -20,7 +20,7 @@ Para isso, foram analisados diferentes aspectos do comportamento dos usuários, 
 
 **Relatório completo (Google Docs)**
 
-**[relatório](https://docs.google.com/document/d/1qjVVkGRc4TD5vZ6iykZSXAKpP_gi4kSVkBott_vG0lU/edit?tab=t.0#heading=h.l54j4hyesunp)**
+**[Relatório](https://docs.google.com/document/d/1qjVVkGRc4TD5vZ6iykZSXAKpP_gi4kSVkBott_vG0lU/edit?tab=t.0#heading=h.l54j4hyesunp)**
 
 **Artigo Medium**
 
@@ -30,7 +30,7 @@ Para isso, foram analisados diferentes aspectos do comportamento dos usuários, 
 
 **Dashboard Interativo**
 
-**[dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVjMjZmZWMtNDZjNC00ODVkLWIwY2QtMWZhNzQ3NjMyNTBhIiwidCI6IjY0Zjk5OWRmLTM4NDktNDU0OS05YWMyLWY1ZDc4NTdjNTlhYyJ9)**
+**[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVjMjZmZWMtNDZjNC00ODVkLWIwY2QtMWZhNzQ3NjMyNTBhIiwidCI6IjY0Zjk5OWRmLTM4NDktNDU0OS05YWMyLWY1ZDc4NTdjNTlhYyJ9)**
 
 **Notebook Online (Google Colab)**
 
